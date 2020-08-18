@@ -39,7 +39,7 @@ function Landing() {
 
         <span className="total-connections">
             Total de 200 conexões já realizadas
-            <img src={purpleHeartIcon} alt="Corção Roxo"/>
+            <img src={purpleHeartIcon} alt="Coração Roxo"/>
         </span>
       </div>
     </div>

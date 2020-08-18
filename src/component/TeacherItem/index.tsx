@@ -7,7 +7,7 @@ function TeacherItem() {
   return (
     <article className="teacher-item">
       <header>
-        <img src="" alt="" />
+        <img src="https://media-exp1.licdn.com/dms/image/C4E03AQE_rXU14aupxQ/profile-displayphoto-shrink_400_400/0?e=1603324800&v=beta&t=p0anjB5Irrr9aicBLFuuBSDKrI7bfYe0XmajDxFMOng" alt="Perfil" />
         <div>
           <strong>Paulo Brito</strong>
           <span>Cientista</span>
